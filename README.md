@@ -16,4 +16,4 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=fantasy995" alt="访客统计" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/fantasy995/fantasy995/contribution-snake/github-contribution-grid-snake.svg" /></div> -->
