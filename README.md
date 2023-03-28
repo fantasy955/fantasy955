@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://weijl.top/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20Nice%20to%20meet%20you!;This%20is%20Fantasy955!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!%20Nice%20to%20meet%20you;&center=true&size=27">
   </a>
 </h1>
 
